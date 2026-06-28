@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/GetSetHimi/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/GetSetHimi/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/GetSetHimi/Leetcode/tree/master/0049-group-anagrams) |
+| [0118-pascals-triangle](https://github.com/GetSetHimi/Leetcode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/GetSetHimi/Leetcode/tree/master/0217-contains-duplicate) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/GetSetHimi/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1929-concatenation-of-array](https://github.com/GetSetHimi/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/GetSetHimi/Leetcode/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/GetSetHimi/Leetcode/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
