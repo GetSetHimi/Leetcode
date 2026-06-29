@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/GetSetHimi/Leetcode/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/GetSetHimi/Leetcode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/GetSetHimi/Leetcode/tree/master/0217-contains-duplicate) |
+| [0605-can-place-flowers](https://github.com/GetSetHimi/Leetcode/tree/master/0605-can-place-flowers) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/GetSetHimi/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1929-concatenation-of-array](https://github.com/GetSetHimi/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/GetSetHimi/Leetcode/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/GetSetHimi/Leetcode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
